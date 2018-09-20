@@ -9,6 +9,7 @@ python setup.py install
 
 # Example
 * Vanilla Example
+
 Please check `examples/Vanilla Example.ipynb`
 
 * Random Search for hyperparameters
