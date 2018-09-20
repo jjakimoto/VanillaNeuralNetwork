@@ -8,7 +8,10 @@ python setup.py install
 ```
 
 # Example
-Random Search for hyperparameters
+* Vanilla Example
+Please check `examples/Vanilla Example.ipynb`
+
+* Random Search for hyperparameters
 ```python
 from sklearn.datasets import load_iris
 from sklearn.model_selection import StratifiedShuffleSplit

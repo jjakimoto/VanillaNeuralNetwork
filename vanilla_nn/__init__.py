@@ -1,1 +1,1 @@
-from .search import random_search
+from .search import random_search, build_model
